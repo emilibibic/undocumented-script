@@ -1,6 +1,6 @@
 
 """Refactored utilities for transforming numbers and strings.
-
+   
 This module demonstrates clean, documented, and Pythonic functions,
 along with a simple main() showcasing their usage.
 """
